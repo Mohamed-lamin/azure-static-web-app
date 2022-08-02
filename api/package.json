@@ -1,0 +1,12 @@
+{
+  "name": "filedd",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "mongoose": "^6.5.0"
+  }
+}
